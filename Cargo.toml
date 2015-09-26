@@ -1,0 +1,12 @@
+[package]
+name = "searchers"
+version = "0.1.0"
+authors = ["Joe Neeman <joeneeman@gmail.com>"]
+description = "Various implementations of the Searcher trait."
+readme = "README.md"
+license = "MIT/Apache-2.0"
+
+[dependencies]
+ascii_set = "0.1.0"
+memchr = "0.1.6"
+
